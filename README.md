@@ -1,2 +1,2 @@
 # Trustnode
-build trust us not just record
+build trust not just record
